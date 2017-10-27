@@ -13,5 +13,6 @@ namespace JobScraperApp
     /// </summary>
     public partial class App : Application
     {
+        int a = 0;
     }
 }
